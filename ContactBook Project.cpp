@@ -11,7 +11,7 @@ struct Node
 	long long int phone_number; 
 	Node *next;
 	Node *prev;
-};
+}; 
 
 
 class ContactBook
