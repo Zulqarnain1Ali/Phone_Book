@@ -3,7 +3,7 @@
 #include <sstream>
 #include <conio.h>
 using namespace std;
- 
+  
 
 struct Node
 {
